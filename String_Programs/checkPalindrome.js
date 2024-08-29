@@ -1,4 +1,4 @@
-// 1
+// 1. Goal: Compare characters from the start and end of the string.
 function isPalindrome(str) {
     let start = 0;
     let end = str.length - 1;
