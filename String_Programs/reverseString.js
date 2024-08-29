@@ -10,7 +10,7 @@ function reverseString(str) {
 console.log(reverseString("hello"));
 
 
-function reverseString(str) {
+function reversedString(str) {
     return str.split('').reverse().join('');
 }
-console.log(reverseString("hello")); // Output: "olleh"
+console.log(reversedString("Pavan")); // Output: "olleh"
